@@ -3,8 +3,8 @@
 ## This repository’s code is open source, but this page is copyrighted by the author.
 
 Test Page<br>
-Page 1.<a href="http://www.yuhaui.online" target="_blank">HFHC1309</a><br>
-Page 2.<a href="http://www.hfhc1309.online" target="_blank">HFHC1309</a><br>
+Page 1.[HFHC1309](http://www.yuhuai.online)<br>
+Page 2.[HFHC1309](http://www.hfhc1309.online)<br>
 
 
 
