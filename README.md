@@ -2,9 +2,9 @@
 
 ## This repository’s code is open source, but this page is copyrighted by the author.
 
-Test Page
-1.<a href="http://www.yuhaui.online" target="_blank">HFHC1309-1</a><br>
-2.<a href="http://www.hfhc1309.online" target="_blank">HFHC1309-2</a><br>
+Test Page<br>
+Page 1.<a href="http://www.yuhaui.online" target="_blank">HFHC1309</a><br>
+Page 2.<a href="http://www.hfhc1309.online" target="_blank">HFHC1309</a><br>
 
 
 
